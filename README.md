@@ -1,2 +1,1 @@
-# learnCProgramming
-let's learn the mother of all modern day programming langugage "C", it is going to be my first programming language, so let's do it...
+
