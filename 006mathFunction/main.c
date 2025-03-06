@@ -1,12 +1,23 @@
 #include <stdio.h>
 #include <math.h>
+#include <stdlib.h>
 
 
 int main()
 {
-    int x = 2;
+    float x = 45;
     
-    x = pow(x,4);
-    
-    printf("%d", x);
+    // x = sqrt(x);
+    // x = pow(x,4);
+    // x = round(x);
+    // x = ceil(x);
+    // x = floor(x);
+    // x = abs(x);
+    // x = log(x);
+    // x = sin(x);
+    // x = cos(x);
+    x = tan(x);
+
+
+    printf("%f", x);
 }
