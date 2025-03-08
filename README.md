@@ -4,7 +4,7 @@
 Welcome to my C programming journey! This repository serves as a collection of my learning experience as I dive deep into the world of C, often regarded as the "mother of all programming languages." My learning is primarily guided by **Bro Code's** YouTube tutorial series on C programming, which provides a structured and engaging approach to mastering this powerful language.
 
 ## Learning Resource
-I am following **Bro Code's C Programming Video Series**, which covers all fundamental and advanced concepts of C. The series helps in building a solid foundation, focusing on topics such as variables, loops, functions, pointers, memory management, and more.
+I am following **Bro Code's C Programming Video Series**.
 
 **Video Link:** [Bro Code - C Programming Full Course](https://youtu.be/87SH2Cn0s9A?feature=shared)
 
